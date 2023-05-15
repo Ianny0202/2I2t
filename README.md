@@ -1,1 +1,3 @@
-# 2I2t
+# Aulas do 2° Trimestre
+
+nome: Ian Pedro Tiago Ferreira - n°17
